@@ -4,6 +4,12 @@
       justify-content: center;
   }
 
+  #button {
+    background-color: #f2f2f2;
+    color: gray;
+    border: none;
+  }
+
   ul {
     list-style-type: none;
     margin: 0;
@@ -23,14 +29,15 @@
     text-decoration: none;
   }
   #footer1{
-  background-color:#f2f2f2 ;
-margin-top: 15em;
+    background-color:#f2f2f2;
+    margin-top: 15em;
+    width: 100%;
+
   }
  #footer-nav{
    float: left;
-
+   background-color: #f2f2f2;
  }
-
 
 
   li a:hover {
