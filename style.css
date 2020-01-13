@@ -22,6 +22,16 @@
     padding: 14px 16px;
     text-decoration: none;
   }
+  #footer1{
+  background-color:#f2f2f2 ;
+margin-top: 15em;
+  }
+ #footer-nav{
+   float: left;
+
+ }
+
+
 
   li a:hover {
     background-color: white;
